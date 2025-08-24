@@ -81,7 +81,7 @@ var config = {
             alignment: 'full',
             hidden: false,
             title: '',
-             image: 'https://i.ibb.co/1JXwD6P3/2.png',
+             image: 'https://i.ibb.co/sSpdM3d/MEF-AAP-027-BAP-2025-08-24-12-45-26.png',
             description: '',
             location: {
               center: [28.968779192220104,41.01840410725524],
@@ -171,7 +171,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/YBnkQ0dG/5.png',
+            image: 'https://i.ibb.co/Fb16QnhZ/MEF-AAP-027-BAP-2025-08-24-12-49-17.png',
             description: '',
             location: {
                  center: [28.963005972532663,41.021048233270704],
